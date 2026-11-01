@@ -3,8 +3,8 @@
   "environment": "PROD",
   "channel": "latest",
   "schemaVersion": 1,
-  "revision": 14,
-  "releaseId": "prod-2.1.68-4e24f2d395e6",
-  "historyPath": "history/prod-2.1.68-4e24f2d395e6/manifest.json",
-  "sha256": "091899ef746e71d53bcf120acd8345258ac4e3ac8a3ebcc3abe8cc9fb5808f2f"
+  "revision": 15,
+  "releaseId": "prod-2.1.70-cbd27459cceb",
+  "historyPath": "history/prod-2.1.70-cbd27459cceb/manifest.json",
+  "sha256": "bee75c5d3fc2a9b019026ef6ace2a9cee6dbcce96638fa0da3f388cdcb923086"
 }
